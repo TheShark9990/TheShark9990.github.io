@@ -1,11 +1,11 @@
 p {
-    color:black;
-    background-color:purple
+    color:rgb(243, 123, 10);
+    background-color:black;
 }
 body {
     background-color:black;
 }
 
 h1 {
-    color:purple
+    color:rgb(243, 123, 10);
 }
